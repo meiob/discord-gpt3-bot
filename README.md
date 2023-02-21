@@ -1,5 +1,5 @@
 
-![hero image openAI x Discord x Node.js](https://assets.cdn.prod.twilio.com/images/MBw2s9oFEFXHmGTcKG6kYjj9JixmUwE3.width-1616.format-webp.webp "PATEL")
+![hero image openAI x Discord x Node.js](gpt3-discord-nodejs-hero.png "PATEL")
 
 Ready to create a Discord bot with a side of dark humor and gen z slangs, all powered by the unstoppable GPT-3? Let's go!
 
